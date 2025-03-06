@@ -1,0 +1,9 @@
+/home/apoc/ROSTest_ws/install/_setup_util.py
+/home/apoc/ROSTest_ws/install/env.sh
+/home/apoc/ROSTest_ws/install/setup.bash
+/home/apoc/ROSTest_ws/install/local_setup.bash
+/home/apoc/ROSTest_ws/install/setup.sh
+/home/apoc/ROSTest_ws/install/local_setup.sh
+/home/apoc/ROSTest_ws/install/setup.zsh
+/home/apoc/ROSTest_ws/install/local_setup.zsh
+/home/apoc/ROSTest_ws/install/.rosinstall

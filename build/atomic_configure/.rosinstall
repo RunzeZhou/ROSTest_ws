@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/apoc/ROSTest_ws/devel/setup.sh

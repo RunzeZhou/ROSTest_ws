@@ -1,0 +1,2 @@
+test_node
+-DCATKIN_DEVEL_PREFIX=/home/apoc/ROSTest_ws/devel -DCMAKE_INSTALL_PREFIX=/home/apoc/ROSTest_ws/install -G Unix Makefiles
