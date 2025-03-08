@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# 订阅者代码案例
+# 来源：古月居课程
 
 import rospy
 from turtlesim.msg import Pose
